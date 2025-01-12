@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мир растений: Монстера</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Монстера – Природная красота</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">О растении</a></li>
+                <li><a href="#benefits">Польза</a></li>
+                <li><a href="#care">Уход</a></li>
+                <li><a href="#gallery">Галерея</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>О растении</h2>
+            <p>Монстера – это тропическое растение с крупными резными листьями. Она идеально подходит для украшения интерьера и создания уютной атмосферы в доме.</p>
+        </section>
+
+        <section id="benefits">
+            <h2>Польза Монстеры</h2>
+            <ul>
+                <li>Очищает воздух от токсинов.</li>
+                <li>Увлажняет воздух в помещении.</li>
+                <li>Снимает стресс и улучшает настроение.</li>
+            </ul>
+        </section>
+
+        <section id="care">
+            <h2>Рекомендации по уходу</h2>
+            <p>Монстера требует минимального ухода:</p>
+            <ul>
+                <li>Полив – 1-2 раза в неделю, когда почва слегка подсохнет.</li>
+                <li>Освещение – рассеянный свет, избегайте прямых солнечных лучей.</li>
+                <li>Температура – от 18 до 27°C.</li>
+            </ul>
+        </section>
+
+        <section id="gallery">
+            <h2>Галерея</h2>
+            <div class="gallery">
+                <img src="https://via.placeholder.com/300" alt="Монстера крупным планом">
+                <img src="https://via.placeholder.com/300" alt="Интерьер с Монстерой">
+                <img src="https://via.placeholder.com/300" alt="Монстера в горшке">
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Мир растений. Все права защищены.</p>
+    </footer>
+</body>
+</html>
